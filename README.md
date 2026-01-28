@@ -58,10 +58,4 @@ This extension respects your privacy:
 
 Found a site where it doesn't work? Awesome! Open an issue or submit a pull request. The extraction logic lives in `content.js` if you want to add new detection methods.
 
-## License
 
-MIT License - use it however you want.
-
----
-
-**Built for people who just want their streams, without the hassle** 🎯
