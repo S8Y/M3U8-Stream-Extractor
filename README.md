@@ -1,4 +1,6 @@
-# Stream Extractor 🎬
+# M3U8 Stream Extractor 🎬
+
+Made it since it was annoying getting livestream urls from kick streams manually.
 
 Find and copy streaming links from any website with one click. No more digging through page source code or wrestling with developer tools.
 
