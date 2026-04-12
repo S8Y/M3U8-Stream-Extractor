@@ -1,8 +1,6 @@
 # M3U8 Stream Extractor 🎬
 <img width="322" height="262" alt="{91B72CB1-A187-4358-8B56-C57DB076B062}" src="https://github.com/user-attachments/assets/5b98238c-c35f-45e0-b323-397e4e565b55" />
  
-Made it since it was annoying getting livestream urls from kick streams manually.
- 
 Find and copy streaming links from any website with one click. No more digging through page source code or wrestling with developer tools.
 
 ## What It Does
@@ -56,6 +54,6 @@ This extension respects your privacy:
 
 ## Contributing
 
-Found a site where it doesn't work? Awesome! Open an issue or submit a pull request. The extraction logic lives in `content.js` if you want to add new detection methods.
+Found a site where it doesn't work? Open an issue or submit a pull request. The extraction logic lives in `content.js` if you want to add new detection methods.
 
 
